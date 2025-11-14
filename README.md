@@ -1,9 +1,8 @@
 <h1 align="center">Hi, 这里是 wh1t3zer</h1>
-<h3 align="center">一个在网络安全摸爬滚打的菜鸟</h3>
 
-- 🔭 当前从事于 **cyberspace security**
+- 🔭  **cyberspace security**
 
-- 🌱 目前在开发多个网络安全项目
+- 🌱  在开发多个网络安全项目
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
